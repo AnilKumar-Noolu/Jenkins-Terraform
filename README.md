@@ -127,6 +127,7 @@ terraform {
     }
   }
 }
+```
 
 The outputs.tf file lets you export structured data about your resources.
 ```
